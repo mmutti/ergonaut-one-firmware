@@ -35,7 +35,7 @@
 &mt NUMBER_1 SQT  &mt NUMBER_2 COMMA  &mt NUMBER_3 PERIOD  &mt NUMBER_4 P  &mt N5 Y     &mt NUMBER_6 F  &mt N7 G         &mt N8 C     &mt N9 R    &mt N0 L
 &hm LGUI A        &hm LALT O          &hm LCTRL E          &hm LSHFT U     &kp I        &kp D           &hm LSHFT H      &hm LCTRL T  &hm RALT N  &mt MINUS S
 &kp SEMICOLON     &kp Q               &kp J                &kp K           &kp X        &kp B           &kp M            &kp W        &kp V       &kp Z
-                                                           &kp ESC         &lt 3 SPACE  &lt 4 TAB       &lt 1 BACKSPACE  &kp RET      &kp DEL
+                                                           &kp ESC         &lt 1 SPACE  &lt 4 TAB       &lt 2 BACKSPACE  &kp RET      &kp DEL
             >;
         };
 
